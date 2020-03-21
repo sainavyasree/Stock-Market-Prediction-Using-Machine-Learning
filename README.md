@@ -9,9 +9,13 @@ We’ll be using a dataset from Quandl. The 'NSE-TATAGLOBALBVG.csv' is the datas
 ## Required libraries
 
 > $ pip install numpy
+
 > $ pip install pandas
+
 > $ pip install matplotlib
+
 > $ pip install tensorflow
+
 > $ pip install scipy
 
 ## Getting Started
